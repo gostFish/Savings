@@ -1,0 +1,17 @@
+UnemplyomentRate: 4.6
+
+From 0 to 12,700 rate: 0 deduct 0
+From 12,701 to 21,200 rate: 15 deduct 1,905
+From 21,201 to 28,700 rate: 25 deduct 4,025
+From 28,701 to 60,000 rate: 25 deduct 3,905
+From 60,001 to and above rate: 35 deduct 9,905
+From 0 to 9,100 rate: 0 deduct 0
+From 9,101 to 14,500 rate: 15 deduct 1,365
+From 14,501 to 19,500 rate: 25 deduct 2,815
+From 19,501 to 60,000 rate: 25 deduct 2,725
+From 60,001 to and above rate: 35 deduct 8,725
+From 0 to 10,500 rate: 0 deduct 0
+From 10,501 to 15,800 rate: 15 deduct 1,575
+From 15,801 to 21,200 rate: 25 deduct 3,155
+From 21,201 to 60,000 rate: 25 deduct 3,050
+From 60,001 to and above rate: 35 deduct 9,050
